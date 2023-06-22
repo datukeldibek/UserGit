@@ -10,3 +10,5 @@ import Foundation
 print("Hello, Datu!")
 
 let number2 = 20
+
+let sentence = "big big world!"
