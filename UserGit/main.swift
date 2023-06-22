@@ -9,3 +9,4 @@ import Foundation
 
 print("Hello, Datu!")
 
+let number = 10
