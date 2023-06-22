@@ -12,3 +12,6 @@ print("Hello, Datu!")
 let number2 = 20
 
 let sentence = "big big world!"
+
+let number = 10
+let sum = number + 1
